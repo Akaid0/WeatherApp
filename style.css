@@ -94,7 +94,7 @@ body{
     padding-right: 40px;
     border-radius: 10px;
     background: rgba(0,0,0,0.2);
-    height: 215px;
+    height: 160px;
     margin-right: 10px;
 }
 
@@ -151,7 +151,6 @@ body{
         justify-content: start;
         align-items: none;
         overflow-y: scroll;
-        height: 145px;
     }
 
     .future-forecast .today .temp{
