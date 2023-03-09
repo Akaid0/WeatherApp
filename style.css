@@ -151,6 +151,7 @@ body{
         justify-content: start;
         align-items: none;
         overflow-y: scroll;
+        height: 145px;
     }
 
     .future-forecast .today .temp{
